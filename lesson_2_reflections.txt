@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+* a .git directory is created after git init and it's necessary to run git init
+to convert the normal directory into a git repo.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+* staging area is a dynamic working directory where you can see the modified
+files before adding them to the repository.
+
+* it allows you to select specific changes to add to the repo and keep some 
+other changes for later.
