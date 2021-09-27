@@ -11,3 +11,7 @@ files before adding them to the repository.
 
 * it allows you to select specific changes to add to the repo and keep some 
 other changes for later.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+* "git diff --staged" to see what you're about to commit
