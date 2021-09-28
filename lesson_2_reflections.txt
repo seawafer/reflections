@@ -15,3 +15,29 @@ other changes for later.
 How can you use the staging area to make sure you have one commit per logical change?
 
 * "git diff --staged" to see what you're about to commit
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+* introducing new features for different purposes which deviate from the original 
+goal
+
+How do the diagrams help you visualize the branch structure?
+
+* it helpd me understand what commits I'm missing and which commit the branch is
+based on
+
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+* the union of the two branches will be merged in one branch
+* because it is the union
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+* automatic merging make it easy to create new branches from already existing
+ones
+
+* manual merges is error prone but sometimes necessary to understand what has
+been changed
