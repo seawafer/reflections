@@ -19,3 +19,14 @@ When would you use one instead of another?
 * clone when you're cloning github repo to local
 * branch when you're creating a new track of the project
 
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+* to keep working on a recent version of the code and avoid conflicts.
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+* Sending updated project files manually and versioning them by hand.
+* Finding out the changes between different versions will be hard without
+git/github
