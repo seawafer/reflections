@@ -30,3 +30,9 @@ What would be easier, and what would be harder?
 * Sending updated project files manually and versioning them by hand.
 * Finding out the changes between different versions will be hard without
 git/github
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+* when I want to test a new feature that I'm not sure will work
+* keep the master branch clean
